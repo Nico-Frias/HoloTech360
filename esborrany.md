@@ -8,10 +8,10 @@ El nostre projecte es dirà HoloTech360 i consistirà en una plataforma que inte
 
 Aquestes funcionalitats seran:
 
-HoloHelp: assistent virtual per detectar i explicar problemes informàtics
+- HoloHelp: assistent virtual per detectar i explicar problemes informàtics
 
-HoloClass: professor virtual per ajudar en l'aprenentatge.
+- HoloClass: professor virtual per ajudar en l'aprenentatge.
 
-HoloStore: visualitzador hologràfic de productes i components informàtics.
+- HoloStore: visualitzador hologràfic de productes i components informàtics.
 
 La nostra idea és que les tres funcionalitats es puguin utilitzar amb un mateix dispositiu hologràfic, sense necessitat de construir-ne un de diferent per a cada funció.
