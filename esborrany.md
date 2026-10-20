@@ -15,3 +15,25 @@ Aquestes funcionalitats seran:
 - HoloStore: visualitzador hologràfic de productes i components informàtics.
 
 La nostra idea és que les tres funcionalitats es puguin utilitzar amb un mateix dispositiu hologràfic, sense necessitat de construir-ne un de diferent per a cada funció.
+
+## Objectius del projecte 
+
+L'objectiu principal és crear un sistema hologràfic interactiu que combini diferents coneixements que hem après durant el cicle de Sistemes Microinformatics i Xarxes locals. (SMX)
+
+Els nostres objectius són (poden ser modificats):
+
+- Construir una piràmide hologràfica utilitzant materials transparents.
+
+- Crear una pàgina web que permeti controlar les diferents funcionalitats.
+
+- Implementar un sistema de diagnòstic informàtic.
+
+- Desenvolupar un professor virtual amb continguts educatius.
+
+- Crear un catàleg de productes informàtics que es puguin visualitzar en 3D.
+
+- Connectar el sistema hologràfic amb un ordinador.
+
+- Aplicar coneixements de hardware, software, xarxes i programació.
+
+- Documentar tot el procés de desenvolupament i les proves realitzades.
