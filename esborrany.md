@@ -1,3 +1,7 @@
 # Projecte Hologrames 
 ## HOLOTECH360
-En aquest projecte el que farem será la implementació de hologrames en diferents ocasions, ja sigui per temes acadèmics, per temes personals, o per temes empresials. Amb els hologrames, podrem facilitar moltes coses, com veure un producte desitjat, amb les seves dimensions i aparells, un professor virtual en cas de que escasin, o fins i tot un assistent virtual si tens algun problema en algun dispositiu electrònic. 
+En aquest projecte, el que volem fer és implementar nu sistema d'holoframes que es pugui utilitzar en diferents situacions, ja sigui en l¡àmbit acadèmic, personal o empresarial.
+
+Amb els hologrames volem facilitar diferents tasques, com visualtizar productes en tres dimensions, disposar d'un professor virtual que expliqui contignuts o tenir un assistent informàtic que ajudi a detectar problemes en un ordinador.
+
+El nostre projecte es dirà HoloTech360 i consistirà en una plataforma que integrarà tres funcionalitats diferents dins d'una maetixa pàgina web.
