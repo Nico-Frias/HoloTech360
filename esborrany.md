@@ -60,7 +60,7 @@ La idea és crear un professor virtual que pugui explicar diferents temes mitjan
 
 Aquesta funcionalitat estarà pensada especialment per a estudiants, però també podria utilitzar-se en altres àmbits educatius.
 
-4.1. Continguts educatius
+###### 4.1. Continguts educatius
 
 Inicialment volem centrar-nos en continguts relacionats amb el nostre cicle formatiu.
 
@@ -84,7 +84,7 @@ Seguretat informàtica.
 
 Muntatge i manteniment d'ordinadors.
 
-4.2. Funcionament de HoloClass
+###### 4.2. Funcionament de HoloClass
 
 L'usuari entrarà a la pàgina web i seleccionarà HoloClass.
 
@@ -96,7 +96,7 @@ També volem afegir explicacions escrites i, si és possible, narracions d'àudi
 
 D'aquesta manera, l'alumne podria escoltar l'explicació mentre observa el component representat.
 
-4.3. Possibles ampliacions
+###### 4.3. Possibles ampliacions
 
 En un futur, podríem implementar:
 
