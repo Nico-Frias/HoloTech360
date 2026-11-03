@@ -111,3 +111,55 @@ Explicacions amb veu.
 Un assistent que respongui preguntes sobre els continguts.
 
 Aquestes funcions serien ampliacions, ja que primer volem aconseguir que la visualització hologràfica i la selecció dels continguts funcionin correctament.
+
+#### 5. HoloStore — Botiga hologràfica
+
+HoloStore serà una funcionalitat orientada a mostrar productes mitjançant representacions en tres dimensions.
+
+La nostra idea és simular una botiga informàtica en què els clients puguin consultar les característiques dels productes i visualitzar-los abans de comprar-los.
+
+###### 5.1. Productes que volem mostrar
+
+Inicialment ens centrarem en components informàtics:
+
+Processadors.
+
+Targetes gràfiques.
+
+Memòries RAM.
+
+Discos SSD.
+
+Plaques base.
+
+Ordinadors complets.
+
+Cada producte tindrà una fitxa amb les seves característiques principals.
+
+###### 5.2. Funcionament de HoloStore
+
+L'usuari entrarà a la pàgina web i seleccionarà HoloStore.
+
+Després podrà escollir un producte del catàleg.
+
+Per exemple, si selecciona una targeta gràfica, la pantalla mostrarà una animació del component que es reflectirà a la piràmide hologràfica.
+
+A la pàgina web també apareixeran les especificacions tècniques del producte.
+
+Així, el client podrà observar el component des de diferents perspectives i consultar-ne la informació.
+
+###### 5.3. Aplicacions empresarials
+
+Aquesta funcionalitat podria ser útil en:
+
+Botigues d'informàtica.
+
+Fires tecnològiques.
+
+Exposicions.
+
+Presentacions de productes.
+
+Centres comercials.
+
+En una versió més avançada, també podríem implementar un configurador d'ordinadors que permetés seleccionar diferents components i comprovar-ne la compatibilitat.
